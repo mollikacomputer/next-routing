@@ -1,4 +1,4 @@
-const first = () => {
+const firstBlogPage = () => {
     return (
         <div>
            <h2> blog First page</h2> 
@@ -6,4 +6,4 @@ const first = () => {
     );
 };
 
-export default first;
+export default firstBlogPage;

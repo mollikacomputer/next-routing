@@ -1,6 +1,4 @@
-import React from 'react';
-
-const second = () => {
+const secondBlogPage = () => {
     return (
         <div>
             <h2> Blog second page</h2>
@@ -8,4 +6,4 @@ const second = () => {
     );
 };
 
-export default second;
+export default secondBlogPage;
