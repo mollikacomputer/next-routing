@@ -1,7 +1,7 @@
 const secondBlogPage = () => {
     return (
         <div>
-            <h2> Blog second page</h2>
+            <h2 className="text-3xl"> Blog second page</h2>
         </div>
     );
 };
